@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // API base URLs
-const COURSE_SERVICE_URL = 'http://localhost:8081';
+const COURSE_SERVICE_URL = 'http://35.232.119.3:8081';
 const STUDENT_SERVICE_URL = 'http://localhost:8082';
 const MEDIA_SERVICE_URL = 'http://localhost:8083';
 
