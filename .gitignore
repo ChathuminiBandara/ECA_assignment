@@ -1,0 +1,4 @@
+# Project exclude paths
+/course-service/target/
+/media-service/target/
+/student-service/target/
