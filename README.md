@@ -57,6 +57,11 @@ This repository contains four projects:
 [Watch the Video](https://drive.google.com/file/d/1qsnkcvgZDa1roISIV9QzKCa4-9-LGCXZ/view?usp=sharing)
 
 
+- Name : Chathumini Bandara
+- Email : Chathubandara@500gmail.com
+- StudentID : 2301671121
+
+
 ## License
 
 This project is licensed under the [MIT License](Licence.txt).
