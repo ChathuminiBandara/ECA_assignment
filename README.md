@@ -58,7 +58,7 @@ This repository contains four projects:
 
 
 - Name : Chathumini Bandara
-- Email : Chathubandara@500gmail.com
+- Email : Chathubandara500@gmail.com
 - StudentID : 2301671121
 
 
